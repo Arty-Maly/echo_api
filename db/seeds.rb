@@ -1,0 +1,1 @@
+Station.create(name: 'Business FM', stream: 'http://bfmstream.bfm.ru:8004/fm')
